@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Forge\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-06 13:15-0300\n"
+"POT-Creation-Date: 2026-01-26 00:15+1100\n"
 "PO-Revision-Date: 2023-02-28 17:16-0500\n"
 "Last-Translator: Wedone <wedoneofficiel@outlook.fr>\n"
 "Language-Team: French - Canada <wroy@proton.me>\n"
@@ -308,32 +308,32 @@ msgstr "Mode d'affichage par onglets"
 msgid "Exit tabbed tiling mode when only a single tab remains"
 msgstr ""
 
-#: lib/prefs/settings.js:104
+#: lib/prefs/settings.js:103
 #, fuzzy
 msgid "Drag-and-drop behavior"
 msgstr "Disposition centrale par défaut du glisser-déposer"
 
-#: lib/prefs/settings.js:105
+#: lib/prefs/settings.js:104
 msgid "What to do when dragging one window on top of another"
 msgstr ""
 
-#: lib/prefs/settings.js:110
+#: lib/prefs/settings.js:109
 msgid "Swap"
 msgstr "Échange"
 
-#: lib/prefs/settings.js:111
+#: lib/prefs/settings.js:110
 msgid "Tabbed"
 msgstr "Onglets"
 
-#: lib/prefs/settings.js:112
+#: lib/prefs/settings.js:111
 msgid "Stacked"
 msgstr "Empilés"
 
-#: lib/prefs/settings.js:116
+#: lib/prefs/settings.js:115
 msgid "Always on Top mode for floating windows"
 msgstr ""
 
-#: lib/prefs/settings.js:117
+#: lib/prefs/settings.js:116
 #, fuzzy
 msgid "Makes floating windows appear above tiled windows"
 msgstr ""
@@ -341,25 +341,25 @@ msgstr ""
 "mosaïqueMode flottant toujours au-dessus (Les fenêtres flottantes toujours "
 "au-dessus des fenêtres en mosaïque)"
 
-#: lib/prefs/settings.js:125
+#: lib/prefs/settings.js:124
 msgid "Non-tiling workspaces"
 msgstr ""
 
-#: lib/prefs/settings.js:126
+#: lib/prefs/settings.js:125
 msgid ""
 "Disables tiling on specified workspaces. Starts from 0, separated by commas"
 msgstr ""
 
-#: lib/prefs/settings.js:129
+#: lib/prefs/settings.js:128
 msgid "Example: 0,1,2"
 msgstr ""
 
-#: lib/prefs/settings.js:137
+#: lib/prefs/settings.js:136
 #, fuzzy
 msgid "Logger"
 msgstr "Niveau de journalisation"
 
-#: lib/prefs/settings.js:140
+#: lib/prefs/settings.js:139
 #, fuzzy
 msgid "Log level"
 msgstr "Niveau de journalisation"

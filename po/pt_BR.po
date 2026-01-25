@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Forge\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-06 13:15-0300\n"
+"POT-Creation-Date: 2026-01-26 00:15+1100\n"
 "PO-Revision-Date: 2021-09-18 16:25-0400\n"
 "Last-Translator: Juarez Rudsatz <juarezr@gmail.com>\n"
 "Language-Team: \n"
@@ -298,57 +298,57 @@ msgstr "Modo em Abas"
 msgid "Exit tabbed tiling mode when only a single tab remains"
 msgstr "Sair do modo de abas quando restar apenas uma janela"
 
-#: lib/prefs/settings.js:104
+#: lib/prefs/settings.js:103
 #, fuzzy
 msgid "Drag-and-drop behavior"
 msgstr "Arranjo de Arrastar/Soltar Padrão"
 
-#: lib/prefs/settings.js:105
+#: lib/prefs/settings.js:104
 msgid "What to do when dragging one window on top of another"
 msgstr ""
 
-#: lib/prefs/settings.js:110
+#: lib/prefs/settings.js:109
 msgid "Swap"
 msgstr "Trocar"
 
-#: lib/prefs/settings.js:111
+#: lib/prefs/settings.js:110
 msgid "Tabbed"
 msgstr "Em Abas"
 
-#: lib/prefs/settings.js:112
+#: lib/prefs/settings.js:111
 msgid "Stacked"
 msgstr "Empilhado"
 
-#: lib/prefs/settings.js:116
+#: lib/prefs/settings.js:115
 msgid "Always on Top mode for floating windows"
 msgstr "Modo sempre no topo par janelas flutuantes"
 
-#: lib/prefs/settings.js:117
+#: lib/prefs/settings.js:116
 #, fuzzy
 msgid "Makes floating windows appear above tiled windows"
 msgstr ""
 "Modo Flutuante Sempre no Topo (Janelas flutuantes sempre acima de janelas "
 "emparelhadas)"
 
-#: lib/prefs/settings.js:125
+#: lib/prefs/settings.js:124
 msgid "Non-tiling workspaces"
 msgstr ""
 
-#: lib/prefs/settings.js:126
+#: lib/prefs/settings.js:125
 msgid ""
 "Disables tiling on specified workspaces. Starts from 0, separated by commas"
 msgstr ""
 
-#: lib/prefs/settings.js:129
+#: lib/prefs/settings.js:128
 msgid "Example: 0,1,2"
 msgstr "Examplo: 0,1,2"
 
-#: lib/prefs/settings.js:137
+#: lib/prefs/settings.js:136
 #, fuzzy
 msgid "Logger"
 msgstr "Nivel de Log"
 
-#: lib/prefs/settings.js:140
+#: lib/prefs/settings.js:139
 #, fuzzy
 msgid "Log level"
 msgstr "Nivel de Log"

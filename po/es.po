@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Forge\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-06 13:15-0300\n"
+"POT-Creation-Date: 2026-01-26 00:15+1100\n"
 "PO-Revision-Date: 2021-09-18 16:25-0400\n"
 "Last-Translator: Jose Maranan <jmmaranan@gmail.com>\n"
 "Language-Team: \n"
@@ -298,54 +298,54 @@ msgstr "Salir automáticamente del modo de mosaico en pestañas"
 msgid "Exit tabbed tiling mode when only a single tab remains"
 msgstr "Salir del modo de mosaico en pestañas cuando solo queda una pestaña"
 
-#: lib/prefs/settings.js:104
+#: lib/prefs/settings.js:103
 #, fuzzy
 msgid "Drag-and-drop behavior"
 msgstr "Distribución central predeterminada de arrastrar y soltar"
 
-#: lib/prefs/settings.js:105
+#: lib/prefs/settings.js:104
 msgid "What to do when dragging one window on top of another"
 msgstr ""
 
-#: lib/prefs/settings.js:110
+#: lib/prefs/settings.js:109
 msgid "Swap"
 msgstr "Intercambiar"
 
-#: lib/prefs/settings.js:111
+#: lib/prefs/settings.js:110
 msgid "Tabbed"
 msgstr "En pestañas"
 
-#: lib/prefs/settings.js:112
+#: lib/prefs/settings.js:111
 msgid "Stacked"
 msgstr "Apilado"
 
-#: lib/prefs/settings.js:116
+#: lib/prefs/settings.js:115
 msgid "Always on Top mode for floating windows"
 msgstr ""
 
-#: lib/prefs/settings.js:117
+#: lib/prefs/settings.js:116
 #, fuzzy
 msgid "Makes floating windows appear above tiled windows"
 msgstr "Ventanas flotantes siempre encima de las ventanas en mosaico"
 
-#: lib/prefs/settings.js:125
+#: lib/prefs/settings.js:124
 msgid "Non-tiling workspaces"
 msgstr ""
 
-#: lib/prefs/settings.js:126
+#: lib/prefs/settings.js:125
 msgid ""
 "Disables tiling on specified workspaces. Starts from 0, separated by commas"
 msgstr ""
 
-#: lib/prefs/settings.js:129
+#: lib/prefs/settings.js:128
 msgid "Example: 0,1,2"
 msgstr ""
 
-#: lib/prefs/settings.js:137
+#: lib/prefs/settings.js:136
 msgid "Logger"
 msgstr "Registro"
 
-#: lib/prefs/settings.js:140
+#: lib/prefs/settings.js:139
 #, fuzzy
 msgid "Log level"
 msgstr "Nivel de registro"
